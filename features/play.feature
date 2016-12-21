@@ -15,6 +15,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -27,6 +28,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -39,6 +41,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -51,6 +54,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -63,6 +67,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -75,6 +80,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -87,6 +93,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -99,6 +106,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -111,6 +119,7 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
 
     Scenario Outline: Direct Play
       Given I play the track <url>
@@ -123,4 +132,4 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
-
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                                             |
