@@ -9,6 +9,7 @@ Feature: Play Track
       Then I wait
       
       Examples:
-      | url                                                                      |
-      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"            |
-      | "https://soundcloud.com/konquestnow/verseborn-you-prod-by-enyway#t=0:01" |
+      | url                                                                                 |
+      | "https://soundcloud.com/konquestnow/konquest-all-odds#t=0:01"                       |
+      | "https://soundcloud.com/konquestnow/verseborn-you-prod-by-enyway#t=0:01"            |
+      | "https://soundcloud.com/konquestnow/twenty-one-pilots-ft-verseborn-heathens#t=0:01" | 
