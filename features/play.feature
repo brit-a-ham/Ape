@@ -9,7 +9,107 @@ Feature: Play Track
       Then I wait
       
       Examples:
-      | url                                                                 |
-      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01" |
-      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"         |
-      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"          |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
+
+    Scenario Outline: Direct Play
+      Given I play the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/wreck-the-rebel-marbles#t=0:01"                                         |
+      | "https://soundcloud.com/konquestnow/totem-freestyle#t=0:01"                                                 |
+      | "https://soundcloud.com/konquestnow/verseborn-woke#t=0:01"                                                  |
+      | "https://soundcloud.com/konquestnow/konquest-verseborn-x-wreck-the-rebel-shady-acres-prod-by-enyway#t=0:01" |
