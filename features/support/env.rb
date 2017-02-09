@@ -1,6 +1,29 @@
-puts "----------------------------------------------------"
-puts "| LOADING KNAF(KONQUEST NOW AUTOMATION FRAMEWORK)  |"
-puts "----------------------------------------------------"
+puts "----------------------------------------------"
+puts "| STARTING KONQUEST NOW AUTOMATION FRAMEWORK |"
+puts "----------------------------------------------"
+puts "=> LOADING MEDIA DATA........................."
+puts "+=[ MEDIA DATA LOADED SUCCESSFULLY! ]........."
+puts "=> CONNECTING TO SOCIAL MEDIA PLATFORMS......."
+puts "+=[ SECURE CONNECTION ESTABLISHED! ].........."
+puts "+=[ NETWORK READY FOR CONTENT: status=OK ]...."
+puts "=> CONNECTING TO SEED SERVER: <BLOGS:107,763>."
+puts "+=[ SECURE CONNECTION ESTABLISHED! ].........."
+puts "+=[ NETWORK READY FOR CONTENT: status=OK ]...."
+puts "=> CONNECTING TO SEED SERVER: <FORUMS:8,194>.."
+puts "+=[ SECURE CONNECTION ESTABLISHED! ].........."
+puts "+=[ NETWORK READY FOR CONTENT: status=OK ]...."
+puts "=> CONNECTING TO EMAIL SERVER: <ACCOUNTS:412>."
+puts "+=[ SECURE CONNECTION ESTABLISHED! ].........."
+puts "+=[ NETWORK READY FOR CONTENT: status=OK ]...."
+puts "THIS WILL POST CONTENT TO ALL NETWORKS ABOVE!."
+puts "ARE YOU SURE YOU WISH TO CONTINUE? Y/N ......."
+puts "Y............................................."
+puts "."
+puts ".."
+puts "..."
+puts "...."
+puts "....."
+
 #require 'httparty'
 require 'capybara'
 require 'capybara/cucumber'
@@ -130,6 +153,6 @@ end
 #    headless.destroy
 #  end
 #end
-puts "----------------"
-puts "| KNAF LOADED! |"
-puts "----------------"
+puts "--------------------------"
+puts "| LAUNCHING PROMO BLAST: |"
+puts "--------------------------"
