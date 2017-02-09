@@ -1,11 +1,11 @@
-Feature: Play Track
+Feature: share Track
 
   When I upload a new song
-  I want people to play it
+  I want people to share it
   So I can share good music
   
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -18,8 +18,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -32,8 +32,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -46,8 +46,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -60,8 +60,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -74,8 +74,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -88,8 +88,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -102,8 +102,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
@@ -116,8 +116,8 @@ Feature: Play Track
       | "https://soundcloud.com/konquestnow/verseborn-good-life#t=0:01"                              |
       
 
-    Scenario Outline: Direct Play
-      Given I play the track <url>
+    Scenario Outline: Direct share
+      Given I share the track <url>
       Then I wait
       
       Examples:
