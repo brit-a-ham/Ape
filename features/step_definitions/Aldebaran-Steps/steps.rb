@@ -7,7 +7,7 @@
 #### Example Code: RUBY ####
 
 # => Navigate directly to the track
-Given(/^I play the track "([^"]*)"$/) do |url|
+Given(/^I share the track "([^"]*)"$/) do |url|
   visit (url)
 end
 
@@ -18,7 +18,7 @@ Given(/^I go to "([^"]*)" soundcloud page$/) do |user|
 end
 
 # => Click the Play button
-Given(/^I play a song$/) do
+Given(/^I share a song$/) do
   find('.sc-button.sc-button-xlarge', match: :first).click
 end
 
