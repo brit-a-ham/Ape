@@ -11,7 +11,7 @@ Feature: share Track
       Examples:
       | url                                                                                                       |
       | "https://soundcloud.com/konquestnow/konquest-ft-vanilla-thunder-problems#t=0:01"                          |
-      | "https://soundcloud.com/wrecktherebel/the-cognac-master-beat-tapefree#t=0:01"                             |
+      | "https://soundcloud.com/konquestnow/verseborn-work-ethics-ft-drego#t=0:01"                                |
       | "https://soundcloud.com/konquestnow/konquest-like-a-nigga#t=0:01"                                         |
       | "https://soundcloud.com/konquestnow/konquest-kick-rocks#t=0:01"                                           |
       | "https://soundcloud.com/konquestnow/soul-what-do-we-do#t=0:01"                                            |
