@@ -11,3 +11,75 @@ Feature: share Track
       Examples:
       | url                                                                                                                  |
       | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
+      
+    Scenario Outline: Direct share
+      Given I share the track <url>
+      Then I wait
+      
+      Examples:
+      | url                                                                                                                  |
+      | "https://soundcloud.com/konquestnow/smooth-tha-truth-x-wreck-the-rebel-dont-have-too-prod-by-wreck-the-rebel#t=0:01" |
